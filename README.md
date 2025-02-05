@@ -33,7 +33,7 @@ Running Nmap on the Metasploitable 2 IP address shows multiple open ports and se
 
 <img width="415" alt="5" src="https://github.com/user-attachments/assets/3d013ccf-30a1-4f59-a4e1-47b150b5b872" />
 
-# Nmap Vulnerability Script
+# Let's start with Port 21 Vulnerability Scan
 
 Using nmap --script vuln to detect known vulnerabilities. Nmap identifies the vsftpd 2.3.4 backdoor vulnerability, indicating a potential remote root exploit.
 
